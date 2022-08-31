@@ -1,7 +1,3 @@
-﻿<#
-.ABSOLUTEPARSE True
---------------------------------------------------------------------------------------------------------------------
-#>
 #Descarga de desinstslador de zoom e instalacion
 $uri = 'https://drive.google.com/uc?id=13J5kmMrq-21CGBHwz_rojOFd5juoqOVu&export=download&confirm=t'
 $out= "C:\CleanZoom.exe"
